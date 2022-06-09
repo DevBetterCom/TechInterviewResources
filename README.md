@@ -6,4 +6,5 @@
 
 ## Interviewing Resources
 
+- [Grind75 Questions](https://www.techinterviewhandbook.org/grind75)
 - [Patrick McKenzie Greatest Hits](https://www.kalzumeus.com/greatest-hits/)
